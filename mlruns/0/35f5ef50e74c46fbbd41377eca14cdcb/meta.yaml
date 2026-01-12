@@ -1,0 +1,14 @@
+artifact_uri: file:///Users/joel.collins/Documents/dev/mlrepo_test_a/mlruns/0/35f5ef50e74c46fbbd41377eca14cdcb/artifacts
+end_time: 1768247194087
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35f5ef50e74c46fbbd41377eca14cdcb
+run_name: lyrical-shark-191
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1768247191860
+status: 3
+tags: []
+user_id: joel.collins

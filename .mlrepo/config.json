@@ -1,0 +1,4 @@
+{
+    "handler": "sklearn",
+    "version": "latest"
+}
