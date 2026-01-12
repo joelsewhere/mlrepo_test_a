@@ -1,10 +1,15 @@
 import mlflow
+from dotenv import load_dotenv
+
+load_dotenv('.env')
 
 from sklearn.linear_model import LinearRegression
 from sklearn.datasets import make_regression
 
 X, y = make_regression(random_state=2026)
 model = LinearRegression()
+
+EXPERIMENT = 'baseline'
 
 with mlflow.start_run() as run:
 
